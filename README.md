@@ -21,7 +21,7 @@
 
 ## 🧠 Project Description
 
-This project leverages geospatial machine learning to **predict the optimal network provider** based on geographic and environmental variables such as GPS coordinates, traffic conditions, and weather patterns. By combining signal strength and speed metrics, various machine learning models are compared to determine the most accurate provider selection strategy.
+This project leverages supervised machine learning to \textbf{automatically classify resumes into occupational categories} based on textual content. By vectorizing resume texts using TF-IDF and enriching them with engineered features such as keyword indicators (e.g., ``Python'', ``SQL''), character counts, and formatting patterns, the system captures both semantic and structural signals. Multiple models—including SVM, Random Forest, Extra Trees, and XGBoost—are trained and evaluated to identify the most accurate classifier. The project incorporates K-fold cross-validation for robust generalization and SHAP analysis to interpret model predictions, aligning with the principles of fairness, transparency, and explainability in AI.
 
 ---
 
