@@ -43,10 +43,12 @@ This project leverages geospatial machine learning to **predict the optimal netw
   - `pandas`
   - `numpy`
   - `scikit-learn`
-  - `copulas`
+  - `SVM`
+  - `Extra Trees`
   - `matplotlib`
   - `seaborn`
-  - `joblib`
+  - `K-cross Fold Validation`
+  - `Explainability AI With SHAP`
   - `xgboost`
 
 ---
