@@ -18,6 +18,16 @@
 - [Contact](#contact)
 
 ---
+## 📬 Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+- **Name:** [AHSAN HABIB]
+- **Email:** ahsanauddry.ndc@gmail.com
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **GitHub:** [github.com/ahsanauddry027](https://github.com/ahsanauddry027)
+
+---
 
 ## 🧠 Project Description
 
@@ -57,8 +67,8 @@ This project leverages supervised machine learning to \textbf{automatically clas
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/ahsanauddry027/cse424_project
+cd cse424_project
 
 # Install dependencies
 pip install -r requirements.txt
